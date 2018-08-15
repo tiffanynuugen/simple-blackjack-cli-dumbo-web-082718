@@ -16,7 +16,7 @@ def prompt_user
 end
 
 def get_user_input
-  user_input = gets.chomp # code #get_user_input here
+  gets.chomp # code #get_user_input here
 end
 
 def end_game
