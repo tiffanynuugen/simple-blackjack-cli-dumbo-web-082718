@@ -8,12 +8,11 @@ end
 
 def display_card_total(card_total)
   card_total = 19
-  puts "Your cards add up to #{card_total}"
-  # code #display_card_total here
+  puts "Your cards add up to #{card_total}" # code #display_card_total here
 end
 
 def prompt_user
-  # code #prompt_user here
+  puts "Type 'h' to hit or 's' to stay"# code #prompt_user here
 end
 
 def get_user_input
