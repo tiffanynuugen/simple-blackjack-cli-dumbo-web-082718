@@ -43,8 +43,7 @@ def hit?(card_total)
   end
   card_total
 end
- def invalid_command
-@@ -39,6 +51,11 @@ def invalid_command
+
 #####################################################
  def runner
   # code runner here
@@ -56,4 +55,3 @@ end
   end
   end_game(card_total)
 end
-    
